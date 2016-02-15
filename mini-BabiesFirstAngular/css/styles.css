@@ -1,0 +1,26 @@
+body {
+   background-image: url('../yellowstone.jpg') ;
+   text-align: center;
+}
+
+h1 {
+   color: white;   
+}
+
+.cards {
+   width: 25%;
+   height: 60px;
+   background: grey;
+   text-align: center;
+   margin: 0 auto 20px;
+   border-radius: 10px;
+   box-shadow: -2px 5px 2px 5px rgba(6, 203, 203, 0.3);;
+}
+
+.cards p {
+   padding-top: 20px;
+}
+
+.newF {
+   text-align: center;
+}
